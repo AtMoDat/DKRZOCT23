@@ -1,11 +1,11 @@
 numpy
 pandas
 xarray==2023.04.0
-cfgrib==0.9.10.4
+cfgrib
 eccodes
-python-eccodes==1.6.1
 pandas
 dask
 cartopy
 scipy
 matplotlib
+python-eccodes==1.6.1
