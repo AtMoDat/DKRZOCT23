@@ -2,6 +2,7 @@ numpy
 pandas
 xarray==2022.11.0
 cfgrib
+python-eccodes
 pandas
 dask
 cartopy
