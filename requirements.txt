@@ -8,4 +8,4 @@ dask
 cartopy
 scipy
 matplotlib
-python-eccodes==1.6.1
+python-eccodes
