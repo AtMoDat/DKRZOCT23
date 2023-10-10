@@ -4,8 +4,8 @@ xarray
 pandas
 dask
 cartopy
-scipy
 matplotlib
-cfgrib
 eccodes
+cfgrib
+scipy
 nco
