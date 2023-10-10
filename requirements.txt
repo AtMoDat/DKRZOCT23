@@ -1,6 +1,6 @@
 numpy
 pandas
-xarray=2022.11.0
+xarray==2022.11.0
 cfgrib
 pandas
 dask
