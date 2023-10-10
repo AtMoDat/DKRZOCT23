@@ -4,6 +4,7 @@ xarray
 pandas
 dask
 cartopy
+seaborn
 matplotlib
 eccodes
 cfgrib
