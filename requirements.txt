@@ -1,8 +1,9 @@
 numpy
 pandas
-xarray==2022.11.0
-cfgrib
-python-eccodes
+xarray==2023.04.0
+cfgrib==0.9.10.4
+eccodes==2.32.0
+python-eccodes==1.6.1
 pandas
 dask
 cartopy
