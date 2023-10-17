@@ -1,0 +1,20 @@
+name: globagrim_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy=1.22.3
+  - xarray=2022.3.0
+  - netcdf4=1.5.8
+  - matplotlib=3.5.1
+  - cartopy=0.18.0
+  - pandas
+  - dask
+  - seaborn
+  - eccodes
+  - cfgrib
+  - scipy
+  - nco
+  - cdo
+  - pycdo
