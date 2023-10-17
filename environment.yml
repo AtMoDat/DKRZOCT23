@@ -17,4 +17,4 @@ dependencies:
   - scipy
   - nco
   - cdo
-  - pycdo
+  - python-cdo
